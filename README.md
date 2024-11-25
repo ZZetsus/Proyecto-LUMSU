@@ -8,6 +8,7 @@ El sistema también incluye un área para administradores, encargada de gestiona
 <br>
 <br>
 {English}
+<br>
 (NO DOCUMENTATION)<br>
 The Recycling Incentive for Bike Rental project aims to encourage people to recycle plastic bottles. Through a platform, users can register the bottles they have recycled, accumulating points that they can later redeem for bike rentals.<br> Users can register, update their information, change their password, and track their progress on the platform. There is also a Ranking that highlights the most active recyclers, fostering friendly competition. Once a user has accumulated enough points, they can redeem them in the corresponding section to enjoy the bike rental service.<br> The system also includes an administrator section, responsible for managing users and monitoring recycling activity. In this way, the project combines environmental awareness with sustainable mobility, encouraging recycling in exchange for a tangible benefit.
 
