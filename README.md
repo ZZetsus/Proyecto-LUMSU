@@ -22,6 +22,7 @@ Este proyecto fue realizado el semestre 2021-2 de mi carrera universitaria. cola
 <br>
 <br>
 {English}
+<br>
 This project was carried out in the semester 2021-2 of my university career. At that time, I collaborated significantly on the logic and the code of the program along with my classmates:
 <br>
 <br>
